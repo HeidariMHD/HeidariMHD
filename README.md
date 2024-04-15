@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mohammad! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects, IOT:</h2>
+<h2>👨‍💻 Cybersecurity and IOT Frame Work Projects,:</h2>
 
 - <b>Cybersecurity Labs</b>
 
@@ -25,18 +25,8 @@
   - Sep 2003 - Feb 2007  
   - Azad University, Karaj, Iran
 
-### Certificates:
-- **Management and Business Leadership Certificate**  
-  - Sep 2022 - Dec 2023  
-  - University of Waterloo, Waterloo, Canada
-
-- **Engineers’ and Technologists’ Integration (Industrial Instrumentation and Automation), Grade A+**  
-  - Jan 2018 - Aug 2018  
-  - Northern Alberta Institute of Technology (NAIT), Edmonton, Canada
-
-- **OT/ICS Cybersecurity (Hands-On ISA/IEC 62443: Securing Industrial Systems)**  
-  - Jan 2024  
-  - Udemy, Online Course
+### Affiliation:
+- **Engineer in Training (E.I.T.) registered with APEGA (Alberta), eligible for P.Eng**
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -45,23 +35,32 @@
 [linkedin]: https://www.linkedin.com/in/mohammad-heidari/
 
   <br /><br /><br />
+   ## Skills:
+  - Proficient in C/C++, Python, PowerShell
+  - Professional in Microcontroller such as: Arduino and AVR
+  - Skilled in using Lab equipment such as: Oscilloscope, Function Generator, and Logic Analyzer
+  - Knowledge of working with CodeVisionAVR, Microsoft Visual Studio
 
-- 🌱 I’m currently learning:
-   ## Online Courses
+   ## Training:
 
-- **CompTIA Security+ (SY0-701) Complete Course**
-  - Ongoing
-  - Udemy, Online Course
-
-- **CCNA Preparation**
-  - Ongoing
-  - Udemy, Online Course
+- **Advanced C Programming**
+  - 2024
+  - Microchip University, Online Course
 
 - **Kubernetes (Hands-On)**
   - Ongoing
   - Udemy, Online Course
 
-- **Microsoft Azure Administrator AZ-104**
-  - Ongoing
+- **OT/ICS Cybersecurity (Hands-On ISA/IEC 62443: Securing Industrial Systems)**  
+  - 2024  
   - Udemy, Online Course
+
+- **C/C++ Programming**
+  - 2018
+  - Northern Alberta Institute of Technology (NAIT), Edmonton, Canada
+    
+- **Canadian Electrical Code**
+  - 2018
+  - Northern Alberta Institute of Technology (NAIT), Edmonton, Canada
+    
 

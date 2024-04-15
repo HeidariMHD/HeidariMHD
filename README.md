@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Labs</b>
 
-  - [Active Directory Administration](https://github.com/HeidariMHD/IOT)
+  - [Active Directory Administration](https://github.com/HeidariMHD/Active-Directory-Lab)
   - [FIM (File Integrity Monitor)](https://github.com/Mhdheidari/FIM-Hashing-Email)
     
 - <b>IOT</b>

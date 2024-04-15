@@ -19,8 +19,7 @@
 - **Master of Engineering in Electrical and Computer (Networking and Security), Grade A+**  
   - Sep 2022 - Dec 2023  
   - University of Waterloo, Waterloo, Canada
-    [
-(https://i.imgur.com/n0zLsuq.jpeg)
+    
 - **Bachelor’s degree in Electrical and Electronics Engineering (evaluated by WES), Grade A**  
   - Sep 2003 - Feb 2007  
   - Azad University, Karaj, Iran
@@ -42,7 +41,6 @@
   - Knowledge of working with CodeVisionAVR, Microsoft Visual Studio
 
    ## Training:
-
 - **Advanced C Programming**
   - 2024
   - Microchip University, Online Course
